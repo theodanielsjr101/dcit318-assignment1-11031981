@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TriangleIdentifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08ea3dcb520e6dae950b72232b223239a126547e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c92caa7caaf6e9dafb7c47c79aa0c12ad06f9656")]
 [assembly: System.Reflection.AssemblyProductAttribute("TriangleIdentifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TriangleIdentifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
