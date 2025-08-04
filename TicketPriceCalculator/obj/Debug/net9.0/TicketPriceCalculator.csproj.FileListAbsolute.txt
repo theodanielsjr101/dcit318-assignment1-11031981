@@ -1,0 +1,15 @@
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.exe
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.deps.json
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.dll
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.pdb
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.sourcelink.json
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.dll
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\obj\Debug\net9.0\refint\TicketPriceCalculator.dll
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.pdb
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\theod\OneDrive\Desktop\dcit318-assignment1-11031981\TicketPriceCalculator\obj\Debug\net9.0\ref\TicketPriceCalculator.dll
