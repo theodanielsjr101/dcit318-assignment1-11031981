@@ -1,2 +1,6 @@
-# dcit318-assignment1-11031981
-DCIT 318 C# Assignment
+# DCIT 318: Programming II - Assignment 1
+
+## Student Information
+- **Name:** Theo Daniels
+- **Student ID:** 11031981
+- **Course:** DCIT 318 – Programming II
